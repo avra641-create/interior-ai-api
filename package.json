@@ -1,0 +1,1 @@
+{\n  \"name\": \"interior-ai-api\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A Node.js API for interior AI services\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"replicate\": \"^1.0.0\"\n  },\n  \"author\": \"avra641-create\",\n  \"license\": \"ISC\"\n}
